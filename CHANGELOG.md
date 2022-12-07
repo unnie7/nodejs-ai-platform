@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.1](https://github.com/googleapis/nodejs-ai-platform/compare/v2.3.0...v2.3.1) (2022-12-07)
+
+
+### Bug Fixes
+
+* **deps:** Use google-gax v3.5.2 ([#458](https://github.com/googleapis/nodejs-ai-platform/issues/458)) ([9345b15](https://github.com/googleapis/nodejs-ai-platform/commit/9345b15fcc22f60f00cd50442403fc1af4fabe71))
+* Removing migrated samples (to nodejs-docs-samples) from repo ([#555](https://github.com/googleapis/nodejs-ai-platform/issues/555)) ([0864901](https://github.com/googleapis/nodejs-ai-platform/commit/08649013609e9ba39de734f8a496dd082d3cf76d))
+
 ## [2.3.0](https://github.com/googleapis/nodejs-ai-platform/compare/v2.2.0...v2.3.0) (2022-09-21)
 
 
